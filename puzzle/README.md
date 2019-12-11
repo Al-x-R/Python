@@ -4,7 +4,7 @@ first, enter the number corresponding to the size of the field
 e.g. 5 for a 5x5 field
 
 <p align="center">
-  <img width=50% height=50% src="https://github.com/puzzle/Resources/start1.png?raw=true">
+  <img width=50% height=50% src="https://github.com/Al-x-R/Python_tkinter/blob/master/puzzle/Resources/start1.png?raw=true">
 </p>
 
 <p align="center">
