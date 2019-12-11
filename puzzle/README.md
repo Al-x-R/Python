@@ -1,7 +1,7 @@
 
 
 # Puzzle Game
-
+<h1 align='center>Puzzle Game</h1>
 <br>
 <p align="center">
   <img width=50% height=50% src="https://github.com/Al-x-R/Python_tkinter/blob/master/puzzle/Resources/start1.png?raw=true">
