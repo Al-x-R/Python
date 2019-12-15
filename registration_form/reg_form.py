@@ -10,9 +10,9 @@ def registration():
     text = tk.Label(text='Для входа в систему зарегистрируйтесь')
     text_login = tk.Label(text='Введите ваш логин')
     regisrt_login = tk.Entry()
-    text_pass = tk.Label(text='ВВедите пароль')
+    text_pass = tk.Label(text='Введите пароль')
     reg_pass = tk.Entry()
-    text_pass2 = tk.Label(text='ВВедите пароль еще раз')
+    text_pass2 = tk.Label(text='Введите пароль еще раз')
     reg_pass2 = tk.Entry(show='*')
     button_reg = tk.Button(text='registr', command=lambda: save() )
 
