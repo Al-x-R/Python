@@ -5,8 +5,7 @@
   <img width=50% height=50% src="https://github.com/Al-x-R/Python_tkinter/blob/master/registration_form/Resources/form.png?raw=true">
 </p>
 <br>
-<p align="center">
-
+<p>
 if login or password is entered incorrectly
 </p>
 <br>
@@ -14,7 +13,7 @@ if login or password is entered incorrectly
   <img width=50% height=50% src="https://github.com/Al-x-R/Python_tkinter/blob/master/registration_form/Resources/incorrect.png?raw=true">
 </p>
 <br>
-<p align="center">
+<p>
 and when everything is right
 </p>
 <br>
