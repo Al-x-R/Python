@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f0ae5b3-a950-4535-bff9-0baa4a3a26f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../tests/tests_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tests/tests_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tests/tests_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.txt" beforeDir="false" afterPath="$PROJECT_DIR$/login.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sp.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,12 +21,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../tests" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1TC8Z6T9vF5sbbjubOsQrlzCR1u" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tests" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -46,7 +47,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.index">
+  <component name="RunManager" selected="Python.reg_form">
     <configuration name="вопросы" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="tests" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,11 +77,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/itstep/lessons/036" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../itstep/lessons/036" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/itstep/lessons/036/hw_036.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../itstep/lessons/036/hw_036.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,11 +98,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/Новая папка/download_APP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../Новая папка/download_APP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/Новая папка/download_APP/index.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../Новая папка/download_APP/index.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,11 +119,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/itstep/lessons/036" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../itstep/lessons/036" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/itstep/lessons/036/palindrom.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../itstep/lessons/036/palindrom.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,19 +132,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prob" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="tests" />
+    <configuration name="reg_form" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="registr_form" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tests/prob.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reg_form.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.reg_form" />
         <item itemvalue="Python.index" />
         <item itemvalue="Python.hw_036" />
         <item itemvalue="Python.вопросы" />
         <item itemvalue="Python.palindrom" />
-        <item itemvalue="Python.prob" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +217,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
