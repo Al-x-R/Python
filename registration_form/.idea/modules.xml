@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Documents/itstep/lessons/036/.idea/036.iml" filepath="$USER_HOME$/Documents/itstep/lessons/036/.idea/036.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Новая папка/download_APP/.idea/download_APP.iml" filepath="$USER_HOME$/Documents/Новая папка/download_APP/.idea/download_APP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../new/.idea/new.iml" filepath="$PROJECT_DIR$/../new/.idea/new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/registr_form.iml" filepath="$PROJECT_DIR$/.idea/registr_form.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tests/.idea/tests.iml" filepath="$PROJECT_DIR$/../tests/.idea/tests.iml" />
+    </modules>
+  </component>
+</project>
